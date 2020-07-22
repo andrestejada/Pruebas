@@ -8,4 +8,9 @@ body{
     margin: 0 auto;
     min-height: 3em;
     border: 1px solid black;
+    transition: 0.2s;
+}
+
+.box:hover{
+    background-color: red;
 }
